@@ -19,7 +19,7 @@ int main() {
             printf("Gupi byl. Poszedl do lacznosci");
             break ;
         default:
-            printf("Jeszcze nie bylo 500+");
+            printf("Jeszcze nie bylo 500+\n");
             break;
     }
     return 0;
