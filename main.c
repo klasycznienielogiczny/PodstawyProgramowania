@@ -1,4 +1,190 @@
-#include <stdio.h>
+// Napisać program demonstrujący różnicę między operatorami: & i &&: 2p i 1,5p
+//
+// - Napisać program demonstrujący różnicę między operatorami: | i ||
+
+#include <stdio.h> // wczytanie słowa i zliczenie jego długości (do znaku '\0')
+#include <math.h>
+
+int main() {
+    printf("Ktory syn?");
+    int syny;
+    scanf("%d",&syny);
+    switch(syny)
+    {
+        case 1:
+        case 2:
+            printf("Slynal z madrosci ;)");
+            break ;
+        case 3:
+            printf("Gupi byl. Poszedl do lacznosci");
+            break ;
+        default:
+            printf("Jeszcze nie bylo 500+");
+            break;
+    }
+    return 0;
+}
+
+/*#include <stdio.h> // wczytanie słowa i zliczenie jego długości (do znaku '\0')
+#include <math.h>
+
+int main() {
+    char slowo[128];
+    printf("Podaj slowo: ");
+    scanf("%127s",slowo);
+    int dlugosc=0;
+    for(dlugosc;dlugosc<sizeof(slowo);++dlugosc)
+    {
+        if(slowo[dlugosc]=='\0')
+            goto wynik;
+    }
+    wynik:
+        printf("Slowo \"%s\" ma %d liter(y).",slowo,dlugosc);
+    return 0;
+}
+*/
+
+
+/*#include <stdio.h> //kalkulator zysków <<< zrobić ładniejszy :(
+#include <math.h>
+// Kalkulator ile się zarobiło na inwestycji: podajemy kwotę zainwestowaną,
+// podajemy kwotę zwróconą, oraz ilość miesięcy, powinno zwrócić % zysk/stratę całkowitą, oraz % miesięczną
+int main() {
+    float wklad, wyplata;
+    int ile_msc;
+    printf("Podaj kwote zainwestowana: ");
+    scanf("%f", &wklad);
+    printf("Podaj kwote wyplacona: ");
+    scanf("%f", &wyplata);
+    printf("Podaj ilosc miesiecy: ");
+    scanf("%d", &ile_msc);
+    if (wyplata-wklad>=0)
+        printf("Zyskales %f PLN, co daje %f %% zysku miesiecznie",wyplata-wklad, 100*((wyplata-wklad)/ile_msc)/wklad);
+    else
+        printf("Straciles %f PLN, co daje %f %% straty miesiecznie",(-1*(wyplata-wklad)), -100*((wyplata-wklad)/ile_msc)/wklad);
+    return 0;
+}
+*/
+/*  <stdio.h> // dodawanie tablic, zrobić!
+#include <math.h>
+
+int main() {
+    int tab1[] ={1,2,3};
+    int tab2[] ={4,5,6};
+    int wyjsciowa[6];
+    wyjsciowa=tab1+tab2;
+    printf("%d",wyjsciowa)
+    return 0;
+}
+*/
+/* #include <stdio.h> //MILIONERZY //ładnie z funkcją
+#include <math.h>
+
+int main() {
+    printf("Co to jest rzerzaczka?\n a) choroba\n b) roslina\n c)male zwierze futerkowe o wymiarach 2x2\n d)nie wiem co wpiac");
+
+}
+*/
+/* #include <stdio.h>
+#include <math.h>
+
+int main() {
+    int tab[4][20];
+    for (int i=0;i<4;++i)
+    {
+        scanf("%s",tab[i]);
+    }
+
+    for (int i=0;i<4;++i)
+    {
+        printf("%s, ",tab[i]);
+    }
+    return 0;
+}
+
+*/
+/* #include <stdio.h> PLUS za zadanie
+#include <math.h>
+
+int main() {
+    printf("1 - m->km\n2 - km-> m\n");
+    int a;
+    scanf("%d",&a);
+    switch(a){
+        float b;
+        case 1:
+            printf("Podaj ilosc: ");
+            scanf("%f",&b);
+            printf("%f mili to: %f km\n ", b, 1.609344*b);
+            break;
+        case 2:
+            printf("Podaj ilosc: ");
+            scanf("%f",&b);
+            printf("%f km to: %f m\n ", b, b/1.609344);
+            break;
+        default:
+            printf("Operacja nieznana!\n");
+            break;
+    }
+    return 0;
+}
+*/
+/* #include <stdio.h>
+#include <math.h>
+
+int main() {
+    char tab[50];
+    scanf("%s", tab);
+    if(tab[0]=='P' || tab[0]=='p')
+        printf("Jest OK");
+    else
+        printf("Nic");
+    return 0;
+}
+*/
+
+/*#include <stdio.h>
+#include <math.h>
+
+int main() {
+    printf("Wybierz liczbe od 0-9");
+    int a;
+    scanf("%d",&a);
+    if(a!=9)
+        printf("%d ! Wygrałem ;)",a+1);
+    else
+        printf("Jestes hardkorem!");
+    return 0;
+}
+*/
+
+/*
+ * JESTEŚ HARDKOREM! UZUPEłnić
+ * #include <stdio.h>
+#include <math.h>
+
+int main() {
+    const int tab[3]={1};
+    for (int i=0;i<3;++i)
+        printf("%d\n",tab[i]);
+    return 0;
+}
+
+*/
+
+/* #include <stdio.h> ZADANIE PLUSOWE
+#include <math.h>
+
+int main() {
+    const int tab[3]={1};
+    for (int i=0;i<3;++i)
+        printf("%d\n",tab[i]);
+    return 0;
+}
+*/
+
+// LABORATORIA 1 \/\/\/
+/* #include <stdio.h>
 #include <math.h>
 
 int main() {
@@ -10,7 +196,7 @@ int main() {
         printf("~");
     return 0;
 }
-
+*/
 /*
  * #8
  * #include <stdio.h>
