@@ -1,0 +1,1 @@
+Folder zawiera programy napisane na pierwszych laboratoriach praktycznych dn. 08.10.2020
