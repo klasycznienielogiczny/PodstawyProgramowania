@@ -1,4 +1,29 @@
-//
+// doo czyszczenia konsoli: getchar():
+// while (getchar() != '\n');
+
+//- Napisz funkcje kalkulator(operacja, liczba), która dla danej liczby będącej wewnątrz tej funkcji (static)
+// wykona zadaną operacje z podaną w argumencie liczbą i zwróci wynik: 2p...
+
+//- Proszę o zadeklarowanie funkcji, która przyjmuje wszystkie wbudowane typu całkowitoliczbowe i napisanie funkcji
+// (poniżej maila), która wyświetli te liczby: definicja za main, deklaracja przed main
+
+//- Funkcja menu, która w razie wpisania 0 wyjdzie z programu: exit(0). <stdlib.h>
+
+/*
+//funkcje i podanie argumentów typu f(i++,++i)
+#include <stdio.h>
+
+void fun(int a, int b){
+    printf("%d\t%d",a,b);
+}
+
+int main(){
+    int i=5;
+    fun(++i,i++);
+    return 0;
+}*/
+//funkcja która przyjmuje typ tekstu (error/warning) oraz komunikat oraz ma poprzedzić wyświetlenie numerem komunikatu, który
+//ma rosnąć przy okazji każdego wywyłania funkcji
 
 // obietnice wyborcze ferdka - tablica dwuwymiarowa, wpisać 5, program ma losować liczbe 0-5 i wyświetlać daną obietnicę przypisaną
 // pod danym numerem
