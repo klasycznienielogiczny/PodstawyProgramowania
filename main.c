@@ -1,5 +1,6 @@
 // doo czyszczenia konsoli: getchar():
 // while (getchar() != '\n');
+// jakieś \r \b
 
 //- Napisz funkcje kalkulator(operacja, liczba), która dla danej liczby będącej wewnątrz tej funkcji (static)
 // wykona zadaną operacje z podaną w argumencie liczbą i zwróci wynik: 2p...
