@@ -137,7 +137,7 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
         - [ ] Następnie wybrać medianę i wyświetlić
         - [ ] Wyświetlenie wszystkich kanałów, zaczynających się na tę literę, co najwięcej kanałów się zaczyna
 6. _**Laboratorium 6**_
-~~~Czwartek 05.11.2020~~~
+* Czwartek 05.11.2020
 
 
 
