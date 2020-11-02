@@ -394,6 +394,16 @@ int main() {
 }
 */
 
+#include <stdio.h>
+
+int main(){
+    int a=2, b=7;
+    printf("%d & %d = %d\n",a,b,a&b);
+    printf("%d && %d = %d\n",a,b,a&&b);
+    printf("%d | %d = %d\n",a,b,a|b);
+    printf("%d || %d = %d\n",a,b,a||b);
+    return 0;
+}
 
 
 
@@ -447,18 +457,3 @@ int main()
     return 0;
 }
 */
-
-// LAB 2 \/
-// Napisać program demonstrujący różnicę między operatorami: & i &&: 2p i 1,5p
-//
-// - Napisać program demonstrujący różnicę między operatorami: | i ||
-
-
-
-
-
-
-
-
-
-
