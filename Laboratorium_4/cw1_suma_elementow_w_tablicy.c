@@ -8,7 +8,7 @@ int sum(int tab[], int n){
 }
 
 int main() {
-    int tabs[]={5,4,8,7,9,10,58,47};
-    printf("Suma: %d", sum(tabs,8));
+    int tabs[] = {5, 4, 8, 7, 9, 10, 58, 47};
+    printf("Suma: %d", sum(tabs, 8));
     return 0;
 }
