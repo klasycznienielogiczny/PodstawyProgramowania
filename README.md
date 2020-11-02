@@ -133,7 +133,7 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
     - [ ] Funkcja, która z zadanego tekstu usunie literę 'a', ale przez skorzystanie z tablicy pomocniczej, do której zostanie ten tekst skopiowany bez tejże litery, następnie użyć _strcpy_ lub _strncpy_
     - [ ] Przeniesienie deklaracji i definicji pliku do funkcji
     - [ ] Rozbicie funkcji na trzy pliki: main.c, functions.h i functions.c tak aby main.c włączał tylko functions.h, ale functions.h nie włączał nic
-        - [ ] \* Nazwy kanałów na YT (małymi literami), następnie posortować i wyświetlić
+    - [ ] \* Nazwy kanałów na YT (małymi literami), następnie posortować i wyświetlić
         - [ ] Następnie wybrać medianę i wyświetlić
         - [ ] Wyświetlenie wszystkich kanałów, zaczynających się na tę literę, co najwięcej kanałów się zaczyna
 6. _**Laboratorium 6**_
