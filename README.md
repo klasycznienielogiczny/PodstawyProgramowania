@@ -107,7 +107,7 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
     - [ ] W razie argumentów poniżej 1 wyświetlić o komunikat o błędzie i awaryjne wyjście z programu _(funkcja abort)_
     - [ ] Napisać funkcje wczytującą z klawiatury jedną liczbę i zwracającą jej sześcian
     - [ ] Napisać funkcję przyjmującą dwa argumenty i wyświetlającą dany tekst poprzedzony słowem podanym jako pierwszy argument (słowo to może być "ERROR" lub "WARNING" lub "DEBUG"), przykładowy tekst:
-        > "[ERROR]Brak uprawnień do zorganizowania wesela z powodu pandemii!"
+        > [ERROR]Brak uprawnień do zorganizowania wesela z powodu pandemii!
     - [ ] Funkcja, która wyświetla tekst, jednakże każde jej wywołanie jest poprzedzone numerem komunikatu, który rośnie
     - [ ] Silnia
     - [ ] Napisać funkcje, która podwoi podaną liczbę, po wywołaniu funkcji wyświetlić oryginalną zmienną
@@ -126,7 +126,7 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
     - [ ] Funkcja, która przeliczy wyrazy w napisie
     - [ ] Funkcja, która skopiuje tekst z jednej tablicy do drugiej ale w odwrotnej kolejności (rozmiary mogą się różnić)
     - [ ] Funkcja _mediana()_, która zwróci medianę liczb w tablicy
-    - [ ]Funkcja, która przyjmuje dowolną ilość argumentów (nie trzeba ich wyświetlać)
+    - [ ] Funkcja, która przyjmuje dowolną ilość argumentów (nie trzeba ich wyświetlać)
     - [ ] Funkcja, która nie przyjmuje argumentów i sprawdzić, że nie przyjmuje argumentów
     - [ ] Pobranie co najmniej jednej zmiennej środowiskowej
     - [ ] Napisać fragmentu tekstu ulubionego wykonania _#hot16challange_ i wyszukać w nim słowo _"hot"_, następnie wyświetlić pozycje znalezienia i tekst od tego momentu do końca
