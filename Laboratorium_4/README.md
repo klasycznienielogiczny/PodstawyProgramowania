@@ -3,4 +3,3 @@
 
 - cw2_wypipsywanie_elementow_z_tablicy
 - cw6_srednia_z_elementow_tablicy
-- cw6_sprawdzanie_posortowania_tablicy
