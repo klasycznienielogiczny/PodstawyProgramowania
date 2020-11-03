@@ -1,4 +1,4 @@
-##Folder zawiera programy napisane na _czwartych laboratoriach praktycznych_ w grupie _3b_ dn. 29.10.2020
+## Folder zawiera programy napisane na _czwartych laboratoriach praktycznych_ w grupie _3b_ dn. 29.10.2020
 ### Cwiczenia z plusem:
 
 - cw2_wypipsywanie_elementow_z_tablicy

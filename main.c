@@ -1,31 +1,3 @@
-// doo czyszczenia konsoli: getchar():
-// while (getchar() != '\n');
-// jakieś \r \b
-
-//15. Napisz funkcje kalkulator(operacja, liczba), która dla danej liczby będącej wewnątrz tej funkcji (static)
-// wykona zadaną operacje z podaną w argumencie liczbą i zwróci wynik: 2p...
-
-//14. Proszę o zadeklarowanie funkcji, która przyjmuje wszystkie wbudowane typu całkowitoliczbowe i napisanie funkcji
-// (poniżej maila), która wyświetli te liczby: definicja za main, deklaracja przed main
-
-//13. Funkcja menu, która w razie wpisania 0 wyjdzie z programu: exit(0). <stdlib.h>
-
-
-
-// 11. funkcja która przyjmuje typ tekstu (error/warning) oraz komunikat oraz ma poprzedzić wyświetlenie numerem komunikatu, który
-//ma rosnąć przy okazji każdego wywyłania funkcji
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
