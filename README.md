@@ -8,8 +8,9 @@ Data zajęć | Informacje | Aktywość
 15.10.2020 | Laboratorium 3 | :five:/:five:
 22.10.2020 | Laboratorium 4 | :five:/:five:
 29.10.2020 | Laboratorium 5 | :five:/:five:
-05.11.2020 | Laboratorium 6 | :grey_question:/:five:
-_**PODSUMOWANIE**_ | Sumaryczna liczba punktów za aktywność na zajęciach | :two::zero:
+05.11.2020 | Laboratorium 6 | :five:/:five:
+12.11.2020 | LAboratorium 7 | :grey_question:/:five:
+_**PODSUMOWANIE**_ | Sumaryczna liczba punktów za aktywność na zajęciach | :two::five:
 
 Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
 1. _**Laboratorium 1:**_
@@ -138,6 +139,9 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
         - [ ] Wyświetlenie wszystkich kanałów, zaczynających się na tę literę, co najwięcej kanałów się zaczyna
 6. _**Laboratorium 6**_
 * Czwartek 05.11.2020
+
+6. _**Laboratorium 7**_
+* Czwartek 12.11.2020
 
 
 
