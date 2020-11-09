@@ -1,18 +1,93 @@
 
+// - Skopiowanie z tekstu zawierającego imię i nazwisko do dwóch oddzienych tablic (w jednej samo imię, w drugiej samo nazwisko)
+//- Funkcja, która zmienia tekst na duże/małe litery //toupper tolower
+//- F. zwracająca ilośc małych liter w tekście: islower
+//- F. przycinająca tekst do określonej długości (w razie gdy tekst jest za krótki nic nie robiąca):
+// forma notatnika/ skojarzenia z miesiacami (strzelam że struktura)
+
+/* co ma wiekszy rozmiar
+struct S1
+    {
+        bool b; //
+        double d; //
+        char c; //
+        int i; //
+    };
+    struct S2
+    {
+        double d; //
+        int i; //
+        bool b; //
+        char c; //
+    }; */
+
+//1- Proszę o zaimplementowanie funkcji flegmatyk, która tekst zwróci ze zwielokrotnionymi samogłoskami: 2p i 1,5p i 1p (jeśli losową ilość zwielokratniamy to +1 punkty)
+/*
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+enum miesiac {styczen,marzec=3,kwiecien,maj,czerwiec,lipiec,grudzien=12};
+
+enum miesiac podajnumermiesiaca(char tekst[]) {
+    enum miesiac msc;
+    if(strcmp(tekst,"styczen")==0)
+        msc = styczen;
+    else if(strcmp(tekst,"marzec")==0)
+        msc = marzec;
+    else if(strcmp(tekst,"kwiecien")==0)
+        msc = kwiecien;
+    else if(strcmp(tekst,"maj")==0)
+        msc = maj;
+    else if(strcmp(tekst,"czerwiec")==0)
+        msc = czerwiec;
+    else if(strcmp(tekst,"lipiec")==0)
+        msc = lipiec;
+    else if(strcmp(tekst,"grudzien")==0)
+        msc = grudzien;
+    else return 0;
+    return msc;
+}
+
+int main(){
+    printf("Jaki miesiac?");
+    char mc[32];
+    scanf("%s",mc);
+    printf("%s to %d miesiac",mc,podajnumermiesiaca(mc));
+    return 0;
+}
+
+*/
+/*
+#include <stdio.h> // za plusa
+#include <stdlib.h>
 
 
+int *fun(int a){
+    int *wsk=malloc(sizeof(int)*a);
+    if(wsk!=NULL) {
+        printf("Udalo sie\n");
+        for (int i = 0; i < a; ++i)
+            wsk[i] = 0;
+    }
+    return wsk;
+}
 
+int main(){
+    int a, *tab;
+    scanf("%d",&a);
+    tab = fun(a);
+    free(tab);
+    return 0;
+}*/
 
-
-
-
-
+//************************************************** NOWE LABKI ***************************************************************
 
 /*
 // 10. obietnice wyborcze ferdka - tablica dwuwymiarowa, wpisać 5, program ma losować liczbe 0-5 i wyświetlać daną obietnicę przypisaną
 // pod danym numerem
 
-/*
+
 #include <stdio.h>
 #include <time.h>// <--- ma mieć deklaracje time.h na początku
 #include <stdlib.h>
@@ -46,20 +121,7 @@ int main(){
         }
     }while(decyzja=='y' || decyzja=='Y');
 }
-
 */
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*
 #include <stdio.h>

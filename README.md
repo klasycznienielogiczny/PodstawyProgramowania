@@ -139,6 +139,9 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
 6. _**Laboratorium 6**_
 * Czwartek 05.11.2020
 
+7. _**Laboratorium 7**_
+* Czwartek 12.11.2020
+
 
 
 #  :rainbow_flag:_********_:rainbow_flag:
