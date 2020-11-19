@@ -9,9 +9,10 @@ Data zajęć | Informacje | Aktywość
 22.10.2020 | Laboratorium 4 | :five:/:five:
 29.10.2020 | Laboratorium 5 | :five:/:five:
 05.11.2020 | Laboratorium 6 | :five:/:five:
-12.11.2020 | Laboratorium 7 | 2.5/:five:
-19.11.2020 | Laboratorium 8 | :grey_question:/:five:
-_**PODSUMOWANIE**_ | Sumaryczna liczba punktów za aktywność na zajęciach | :two::five:
+12.11.2020 | Laboratorium 7 | :two:.:five:/:five:
+19.11.2020 | Laboratorium 8 | :five:/:five:
+26.11.2020 | Laboratorium 9 | :grey_question:/:five:
+_**PODSUMOWANIE**_ | Sumaryczna liczba punktów za aktywność na zajęciach | :three::two:.:five:
 
 Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
 1. _**Laboratorium 1:**_
@@ -147,6 +148,7 @@ Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
 8. _**Laboratorium 8**_
 * Czwartek 19.11.2020
 
-
+8. _**Laboratorium 9**_
+* Czwartek 26.11.2020
 
 #  :rainbow_flag:_********_:rainbow_flag:
