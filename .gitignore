@@ -1,8 +1,9 @@
 /cmake-build-debug/
-# Default ignored files
 main.c
 test.h
 CMakeLists.txt
+
+# Default ignored files
 /shelf/
 /workspace.xml
 *.exe
