@@ -4,10 +4,6 @@
 
 #include <stdio.h>
 
-#ifndef PP_TEST_H
-#define PP_TEST_H
-
-#endif //PP_TEST_H
 
 void fun()
 {
