@@ -1,3 +1,0 @@
-C:/Users/piotr/Desktop/PodstawyProgramowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/piotr/Desktop/PodstawyProgramowania/cmake-build-debug/CMakeFiles/PP.dir
-C:/Users/piotr/Desktop/PodstawyProgramowania/cmake-build-debug/CMakeFiles/edit_cache.dir
