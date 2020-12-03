@@ -14,6 +14,7 @@ Data zajęć | Informacje | Aktywość
 26.11.2020 | Laboratorium 9 | :four:.:five:/:five:
 03.12.2020 | Laboratorium 10 | :five:/:five:
 10.12.2020 | Laboratorium 11 | :grey_question:/:five:
+17.12.2020 | Laboratorium 12 | :grey_question:/:five:
 _**PODSUMOWANIE**_ | Sumaryczna liczba punktów za aktywność na zajęciach | :four::two:
 
 Zebrana lista _**wszystkich** zadań_ relizowanych na zajęciach
