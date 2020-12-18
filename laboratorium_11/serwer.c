@@ -61,8 +61,7 @@ int main(){
         return -1;
     }
     socklen_t len = sizeof( serwer );
-    if(bind(gniazdo, ( struct sockaddr * ) & serwer, sizeof(serwer)) ==
-       -1){
+    if(bind(gniazdo, ( struct sockaddr * ) & serwer, sizeof(serwer)) == -1){
         printf ("Blad2!\n");
         return -1;
     }
@@ -73,8 +72,7 @@ int main(){
     while(1){
         printf("Czekam na klienta...\n");
         struct sockaddr_in client = {};
-        const int clientSocket = accept(gniazdo, ( struct sockaddr * ) &
-                client, &len);
+        const int clientSocket = accept(gniazdo, ( struct sockaddr * ) & client, &len);
         if (clientSocket<0){
             printf ("Blad4!\n");
             continue;

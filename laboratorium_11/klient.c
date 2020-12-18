@@ -58,8 +58,7 @@ int main(){
         printf ("Blad!\n");
         return -1;
     }
-    if(connect(gniazdo, ( struct sockaddr * ) & serwer, sizeof(serwer)) ==
-       -1){
+    if(connect(gniazdo, ( struct sockaddr * ) & serwer, sizeof(serwer)) == -1){
         printf ("Blad!\n");
         return -1;
     }
