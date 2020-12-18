@@ -2,7 +2,7 @@
 Repozytorium zawierające ćwiczenia z laboratoriów z Podstaw Programowania
 
 Data zajęć | Informacje | Aktywość
-------------------|-----|---------
+:---------:|------------|:-------:
 01.10.2020 | Zajęcia organizacyjno-wprowadzające | :zero:
 08.10.2020 | Laboratorium 2 | :five:/:five:
 15.10.2020 | Laboratorium 3 | :five:/:five:
