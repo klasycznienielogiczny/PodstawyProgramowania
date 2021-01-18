@@ -12,21 +12,14 @@ void czytaj(char *format, ...)
 
 int main()
 {
-    int testy;
-    scanf(" %d ",&testy);
-    int *suma=malloc(testy*sizeof(int));
-    for(int a=0;a<testy;++a) {
-        suma[a]=0;
-        int ile_liczb;
-        scanf(" %d ",&ile_liczb);
-        int *i = malloc(ile_liczb*sizeof(int));
-        for (int k = 0; k < ile_liczb; ++k) {
-            czytaj(" %d", &i[k]);
-            suma[a] += i[k];
-        }
+    int suma=0;
+    int ile_liczb;
+    scanf(" %d ",&ile_liczb);
+    int *i = malloc(ile_liczb*sizeof(int));
+    for (int k = 0; k < ile_liczb; ++k) {
+        czytaj(" %d", &i[k]);
+        suma += i[k];
     }
-
-    for(int a=0;a<testy;++a)
-        printf("%d\n",suma[a]);
+    printf("%d",suma);
     return 0;
 }

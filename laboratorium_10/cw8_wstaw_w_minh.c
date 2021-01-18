@@ -93,7 +93,7 @@ void minh_sciezka(struct drzewo *dr, char sciezka[]){
 }*/
 
 int main(){
-    struct drzewo *pdr1;
+    struct drzewo *pdr1=(struct drzewo*)malloc(sizeof (struct drzewo));
     pdr1->lewy=NULL;
     pdr1->prawy=NULL;
     pdr1->liczba=1;
